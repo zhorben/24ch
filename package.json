@@ -1,0 +1,17 @@
+{
+  "name": "zhorben-dependencies",
+  "version": "1.0.0",
+  "description": "Dependencies for Zhorben WordPress theme",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ivandoric/olympos.git"
+  },
+  "author": "Arthur Zherko",
+  "license": "ISC",
+  "devDependencies": {
+  }
+}

@@ -1,0 +1,42 @@
+/* font-family: "ProximaNovaRegular"; */
+@font-face {
+    font-family: "PNR";
+    src: url("ProximaNovaRegular/ProximaNovaRegular.eot");
+    src: url("ProximaNovaRegular/ProximaNovaRegular.eot?#iefix")format("embedded-opentype"),
+    url("ProximaNovaRegular/ProximaNovaRegular.woff") format("woff"),
+    url("ProximaNovaRegular/ProximaNovaRegular.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+/* font-family: "ProximaNovaBold"; */
+@font-face {
+    font-family: "PNB";
+    src: url("ProximaNovaBold/ProximaNovaBold.eot");
+    src: url("ProximaNovaBold/ProximaNovaBold.eot?#iefix")format("embedded-opentype"),
+    url("ProximaNovaBold/ProximaNovaBold.woff") format("woff"),
+    url("ProximaNovaBold/ProximaNovaBold.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+
+/* font-family: "PTSerifCaptionRegular"; */
+@font-face {
+    font-family: "PTR";
+    src: url("PTSerifCaptionRegular/PTSerifCaptionRegular.eot");
+    src: url("PTSerifCaptionRegular/PTSerifCaptionRegular.eot?#iefix")format("embedded-opentype"),
+    url("PTSerifCaptionRegular/PTSerifCaptionRegular.woff") format("woff"),
+    url("PTSerifCaptionRegular/PTSerifCaptionRegular.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+/* font-family: "PTSerifCaptionItalic"; */
+@font-face {
+    font-family: "PTI";
+    src: url("PTSerifCaptionItalic/PTSerifCaptionItalic.eot");
+    src: url("PTSerifCaptionItalic/PTSerifCaptionItalic.eot?#iefix")format("embedded-opentype"),
+    url("PTSerifCaptionItalic/PTSerifCaptionItalic.woff") format("woff"),
+    url("PTSerifCaptionItalic/PTSerifCaptionItalic.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+
